@@ -1,6 +1,6 @@
 # killtask
 
-Hi, it's my first project. Lately I've been instaling Kali and running in a Pendrive when something heated my, "Why not to develop a script which can download my tools fastly"
+Hi, it's my first project. Lately I've been instaling Kali and running in a Pendrive when something heated my head, "Why not to develop a script which can download my tools fastly?"
 So that was happend.
 
 
