@@ -1,7 +1,6 @@
 #Made by Copecofee - Ethical Hacker
 
 import os
-import requests
 
 os.system("clear")
 
