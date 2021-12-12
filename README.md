@@ -4,10 +4,11 @@ Hi, it's my first project. Lately I've been instaling Kali and running in a Pend
 So that was happend.
 
 
-     How To Execute The File
-       Type in the Terminal
+How To Execute The File | Type in the Terminal
   
-      chmod u+x killtask.py
-     sudo python3 killtask.py
+###############################################
+  
+           chmod u+x killtask.py
+          sudo python3 killtask.py
 
-#####################################
+###############################################
