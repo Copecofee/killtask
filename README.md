@@ -4,7 +4,6 @@ Hi, it's my first project. Lately I've been instaling Kali and running in a Pend
 So that was happend.
 
 
-####################################
      How To Execute The File
        Type in the Terminal
   
