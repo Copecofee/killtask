@@ -1,4 +1,4 @@
-#Made by Copecofeee - Ethical Hacker
+#Made by Copecofee - Ethical Hacker
 
 import os
 import requests
