@@ -8,7 +8,7 @@ So that was happend.
      How To Execute The File
        Type in the Terminal
   
-chmod u+x killtask.py
-sudo python3 killtask.py
+      chmod u+x killtask.py
+     sudo python3 killtask.py
 
 #####################################
